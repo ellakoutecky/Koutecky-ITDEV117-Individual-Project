@@ -6,3 +6,38 @@ The user would then select a Pokémon by entering the number next to it's name! 
 The user then will be able to return to the main menu and select another evolution. The menu will also include an option to exit the application. 
 
 ## Main Menu Example 
+Welcome to the Eevee Evolution Guide! 
+
+Please choose a Pokémon: 
+
+1. Eevee
+2. Jolteon
+3. Vaporeon
+4. Espeon
+5. Flareon
+6. Umbreon
+7. Leafeon
+8. Sylveon
+9. Glaceon
+10. Exit
+
+Enter your choice: 
+
+## Information Screen Example 
+
+You selected: Espeon 
+
+Type: Psychic
+
+Evoltuon Method: 
+Eevee evolves into Espeon when it has high friendship and levels up during the day time. 
+
+Description: 
+Espeon is a Psychic type Pokémon. It's known for it's intelligence and loyalty. It uses it's psychic powers to predict an opponent's movement and protect it's trainer. 
+
+Would you like to return to the main menu? 
+
+1. Yes
+2. No
+
+Enter your choice: 
